@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Miciaha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

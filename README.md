@@ -7,3 +7,4 @@
 - Real time web communication
 - Object Relational Mapping using EF Core
 - Authentication using .Net Core
+- Domain Driven Design and Dependency Injection
