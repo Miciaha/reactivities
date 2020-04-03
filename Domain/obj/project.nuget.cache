@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YELYFvyKouxJm257U4fQFa7uyNZDpK0Cmas479e27qZGmYa4h5/lGsZyVjDN8zGC8zOV1xPbZzFmXjOLqO17pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miciaha\\Desktop\\Projects\\Reactivities\\reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miciaha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Miciaha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
